@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="868af4a4-187b-4201-a61e-2fb022c1bbd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TepZIqkmi8PY5cg91ibG4DZfkC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="machinelearning" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="machinelearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pingpong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="868af4a4-187b-4201-a61e-2fb022c1bbd7" name="Default Changelist" comment="" />
+      <created>1573830469197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573830469197</updated>
+      <workItem from="1573830470318" duration="22143000" />
+      <workItem from="1573859872088" duration="2000" />
+      <workItem from="1573903584947" duration="283000" />
+      <workItem from="1573908857031" duration="635000" />
+      <workItem from="1574067076139" duration="772000" />
+      <workItem from="1574598655347" duration="5383000" />
+      <workItem from="1574625403649" duration="6000" />
+      <workItem from="1574676005898" duration="876000" />
+      <workItem from="1574677066253" duration="37000" />
+      <workItem from="1574723905999" duration="3000" />
+      <workItem from="1576423133999" duration="12155000" />
+      <workItem from="1576505480135" duration="22347000" />
+      <workItem from="1576561398951" duration="270000" />
+      <workItem from="1576578106169" duration="1085000" />
+      <workItem from="1576678337650" duration="7286000" />
+      <workItem from="1576750184491" duration="6000" />
+      <workItem from="1576849434626" duration="9207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="312" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576849847600">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="429" y="312" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1576849847600" />
+    <state width="1872" height="182" key="GridCell.Tab.0.bottom" timestamp="1576861697008">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="182" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1576861697008" />
+    <state width="1872" height="182" key="GridCell.Tab.0.center" timestamp="1576861697007">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="182" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1576861697007" />
+    <state width="1872" height="182" key="GridCell.Tab.0.left" timestamp="1576861697006">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="182" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1576861697006" />
+    <state width="1872" height="182" key="GridCell.Tab.0.right" timestamp="1576861697007">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="182" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1576861697007" />
+    <state width="1872" height="338" key="GridCell.Tab.1.bottom" timestamp="1576703238187">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="338" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1576703238187" />
+    <state width="1872" height="338" key="GridCell.Tab.1.center" timestamp="1576703238186">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="338" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1576703238186" />
+    <state width="1872" height="338" key="GridCell.Tab.1.left" timestamp="1576703238184">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="338" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1576703238184" />
+    <state width="1872" height="338" key="GridCell.Tab.1.right" timestamp="1576703238187">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="338" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1576703238187" />
+    <state x="607" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1576750184258">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="607" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1576750184258" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/machinelearning$machinelearning.coverage" NAME="machinelearning Coverage Results" MODIFIED="1576861696993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
